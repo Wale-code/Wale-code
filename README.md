@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wale-code
-- 👀 I’m interested in becoming a full stack developer using javascript,node.js,react and datbase management system 
+- 👀 I’m interested in becoming a full stack developer using javascript,node.js,react and database management system 
 - 🌱 I’m currently learning javascript. 
 - 💞️ I’m looking to collaborate on app development 
 - 📫 How to reach me adediranadedwale@gmail.com or +2348026112241
